@@ -1,6 +1,5 @@
 ---
-title: 'Reproduciable Research: Course Project 1'
-output: word_document
+title: "Reproduciable Research: Course Project 1"
 ---
 
 ## Loading and reprocessing data
